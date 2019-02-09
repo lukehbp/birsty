@@ -1,0 +1,1 @@
+SELECT Offering__c, Product_Number__c,  Product_Title_Desc__c, Product_Type_Desc__c, Product_Type__c, Type_Product__c FROM Transaction__c

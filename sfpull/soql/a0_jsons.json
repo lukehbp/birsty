@@ -1,0 +1,10 @@
+{
+"jsons":[
+  { "name": "queries",
+    "file": "sfpull/soql/a1_queries.json"},
+  { "name": "joins",
+    "file": "sfpull/soql/a2_joins.json"},
+  { "name": "fincols",
+    "file": "sfpull/soql/a3_fincols.json"}
+]
+}

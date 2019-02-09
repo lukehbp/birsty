@@ -1,0 +1,11 @@
+{
+"queries":[
+  {"dsn":"xxxxxxx",
+    "username":"xxxxxxx",
+    "password": "xxxxxxxx",
+    "query": "xxxxxxxx"},
+  {"dsn":"xxxxxxxxx",
+    "username":"xxxxxxx",
+    "password": "xxxxxxxx"}
+]
+}
