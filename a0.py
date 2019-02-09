@@ -12,7 +12,7 @@ date1 = time.strftime('_%Y_%m_%d')
 date2 = time.strftime('%Y_%m_%d_')
 # get obiee and sfdc sources
 
-#sfresults = sf.sffunc()
+sfresults = sf.sffunc()
 sfresults = sfflat.sffunc_flat()
 obiee = obiee_conn.getobiee()
 obiee = obiee_flat.getobiee_flat()
